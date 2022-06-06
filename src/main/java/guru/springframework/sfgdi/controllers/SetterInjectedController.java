@@ -20,5 +20,4 @@ public class SetterInjectedController {
 	public String getGreeting() {
 		return greetingService.sayGreeting();
 	}
-	
 }
